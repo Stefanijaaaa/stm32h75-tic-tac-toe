@@ -1,0 +1,10 @@
+../Core/Src/LCDDisplay.c:31:6:LED_Init	4	static
+../Core/Src/LCDDisplay.c:43:6:LED_SetTurn	16	static
+../Core/Src/LCDDisplay.c:56:6:LED_GameOver	4	static
+../Core/Src/LCDDisplay.c:63:5:CheckWinner	16	static
+../Core/Src/LCDDisplay.c:95:6:Display_Init	16	static
+../Core/Src/LCDDisplay.c:125:6:DrawGrid	16	static
+../Core/Src/LCDDisplay.c:142:6:DrawSymbol	56	static
+../Core/Src/LCDDisplay.c:162:6:DrawBoard	24	static
+../Core/Src/LCDDisplay.c:181:6:HandleTouchInput	40	static
+../Core/Src/LCDDisplay.c:238:6:ResetGame	16	static
