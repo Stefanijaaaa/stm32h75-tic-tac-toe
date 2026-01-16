@@ -29,6 +29,9 @@ This project implements a **Tic Tac Toe game** on the STM32H750B Discovery board
 - Single-player mode vs CPU using the Minimax algorithm
 - Score tracking across rounds
 
+ ## Demo
+   Watch the project in action: [Demo Video](https://youtu.be/icizZNqt9IU)
+
 ## Code Snippets
 ```c
 void LED_SetTurn(int player) { ... }
