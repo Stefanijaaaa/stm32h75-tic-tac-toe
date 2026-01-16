@@ -2,6 +2,9 @@
 
 This project implements a **Tic Tac Toe game** on the STM32H750B Discovery board using the LCD touchscreen for the game board, LEDs to indicate player turns and game status, and a push-button for resetting the game.
 
+ ## Demo
+   Watch the project in action: [Demo Video](https://youtu.be/icizZNqt9IU)
+
 ## Features
 - Touchscreen interface for placing X and O symbols
 - LED indicators for Player X, Player O, and game-over status
@@ -28,9 +31,6 @@ This project implements a **Tic Tac Toe game** on the STM32H750B Discovery board
 ## Future Improvements
 - Single-player mode vs CPU using the Minimax algorithm
 - Score tracking across rounds
-
- ## Demo
-   Watch the project in action: [Demo Video](https://youtu.be/icizZNqt9IU)
 
 ## Code Snippets
 ```c
